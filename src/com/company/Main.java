@@ -23,7 +23,7 @@ public class Main {
         //removes number from overflow
         table.remove(50);
         //removes a number added to hashtable from overflow
-        table.remove(6071);
+        table.remove(9308);
         //removes a number not in the overflow or hashtable
         table.remove(1000000);
 
